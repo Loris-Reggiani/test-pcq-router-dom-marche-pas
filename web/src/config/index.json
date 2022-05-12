@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "Hik'UP, la randonnée ludique",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Hik'UP, l'application",
+    "subtitle": "mobile qui rend la randonnée ludique.",
+    "description": "Hik'UP est un jeu mobile qui a pour objectif de rendre la randonnée plus ludique auprès des jeunes entre 15 et 35 ans, et de la rendre plus épanouissante pour tous.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Contactez-nous",
+      "href": "mailto:hikupapp@gmail.com?subject=Votre application m'intéresse !"
+    }
+  },
+  "product": {
+    "title": "Pourquoi Hik'UP vous correspond",
+    "items": [
+      {
+        "title": "Les enjeux de la randonnée",
+        "description": "On ne vous apprend rien en vous disant que les crises de stress sont d'autant plus présentes que l'on reste en intérieur dans un environnement sous pression, d'autant plus entouré d'objets connectés comme nos téléphones portables, nos télévisions et nos ordinateurs. Il est donc naturel et même nécessaire de chercher à se défaire de ce stress en quittant ce milieu pour se ressourcer ; prendre un moment de retraite des zones Wi-Fi est un impératif, et une bouffée d'air frais chez Mère Nature ne peut faire que le plus grand bien. La majorité des docteurs recommandent la pratique de la randonnée pour les bénéfiques physiologiques considérables qu'elle apporte : réduction des maladies cardiaques, amélioration de la circulation sanguine, etc. Les conséquences psychologiques témoignent aussi des bienfaits des environnements forestiers et montagneux, une solution viable et puissante pour regagner de l'énergie et être plus productif au travail comme à la maison.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Un accompagnateur de choix",
+        "description": "Hik'UP incarne cet esprit et vous guide dans vos expéditions tout en les rendant plus ludiques et respectueuses des écosystèmes. Avec sa communauté créative et proactive, et son système de statistiques avancé, notre application propose aux nouveaux-venus comme aux plus aguéris des objectifs et des tracés adaptés à leur expérience. En vous accompagnant dans la préparation de vos expéditions sur les plans météorologique et matériel, Hik'UP vous aide à avoir l'expérience à la fois la plus agréable et la plus efficace.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Forfaits",
+    "items": [
+      {
+        "name": "Gratuit",
+        "price": "0 €",
+        "priceDetails": "par mois",
+        "features": [
+          "Publicité",
+          "Support de base",
+          "Accès à l'onglet statistiques",
+          "Customisation du personnage"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "5 €",
+        "priceDetails": "par mois",
+
+        "features": [
+          "Pas de publicité",
+          "Support prioritaire",
+          "Statistiques approfondies",
+          "Accès à des challenges bonus"
+        ]
+      },
+      {
+        "name": "VIP",
+        "price": "10 €",
+        "priceDetails": "par mois",
+        "features": [
+          "Pas de publicité",
+          "Support 24/7",
+          "Statistiques complètes",
+          "Accès à des challenges bonus"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/Hik-UP",
+      "twitter": "#",
+      "linkedin": "#"
+    }
+  }
+}
